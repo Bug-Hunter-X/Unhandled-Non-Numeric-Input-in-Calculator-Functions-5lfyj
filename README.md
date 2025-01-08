@@ -1,0 +1,3 @@
+# Unhandled Non-Numeric Input in Calculator Functions
+
+This repository demonstrates a common JavaScript error: failure to handle non-numeric input. The provided `calculate` function performs basic arithmetic operations (+, -, *, /). However, it lacks input validation, leading to incorrect or unexpected results if non-numeric values are passed as arguments.  The solution demonstrates how to improve the code's robustness by adding input validation.
